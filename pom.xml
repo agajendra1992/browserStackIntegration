@@ -55,7 +55,7 @@
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 		<dependency>
 			<groupId>org.testng</groupId>
-			<artifactId>testng</artifactId>
+			<artifactId>testng</artigfactId>
 			<version>7.4.0</version>
 		</dependency>
 		<dependency>
