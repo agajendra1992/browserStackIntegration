@@ -25,8 +25,8 @@ public class BrowserStackTest {
          caps.setCapability("browserVersion", "124.0");
          
          Map<String, Object> browserstackOptions = new HashMap<String, Object>();
-         browserstackOptions.put("os", "Linux");
-         browserstackOptions.put("osVersion", "20.4");
+         browserstackOptions.put("os", "Windows");
+         browserstackOptions.put("osVersion", "11");
         // browserstackOptions.put("sessionName", "My First Test"); 
          // Typically the key should be 'sessionName' instead of 'name'
          browserstackOptions.put("userName", USERNAME);
