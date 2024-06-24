@@ -10,7 +10,7 @@
 
 	<name>browserStackIntegration</name>
 	<url>http://maven.apache.org</url>
-<build>
+	<build>
 		<plugins>
 
 			<plugin>
@@ -73,5 +73,11 @@
 			<artifactId>selenium-java</artifactId>
 			<version>${selenium.version}</version>
 		</dependency>
+		<dependency>
+			<groupId>com.aventstack</groupId>
+			<artifactId>extentreports</artifactId>
+			<version>5.0.8</version>
+		</dependency>
+
 	</dependencies>
 </project>
